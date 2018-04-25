@@ -7,7 +7,6 @@ require_once __DIR__.'/Form.php';
     public function generaCamposFormulario($datosIniciales)
     {
      
-     /*'.$datosIniciales[0].' */
        return '<fieldset>
             <legend>Usuario y contraseña</legend>
             <div class="grupo-control">
@@ -18,8 +17,6 @@ require_once __DIR__.'/Form.php';
             </div>
             <div class="grupo-control"><button type="submit" name="login">Entrar</button></div>
         </fieldset>';
-       
-
         
     }
 

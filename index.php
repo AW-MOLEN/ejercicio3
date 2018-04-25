@@ -20,7 +20,7 @@ require_once __DIR__.'/includes/config.php';
 ?>
 
 	<div id="contenido">
-		<h1>Página principal</h1>
+		<h1> Página principal </h1>
 		<p> Aquí está el contenido público, visible para todos los usuarios. </p>
 	</div>
 

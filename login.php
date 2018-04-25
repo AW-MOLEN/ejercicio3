@@ -2,15 +2,6 @@
 require_once __DIR__.'/includes/config.php';
 require_once __DIR__.'/includes/Usuario.php';
 require_once __DIR__.'/includes/FormularioLogin.php';
-
-
-
-/*if (! isset($_POST['login']) ) {
-	header('Location: login.php');
-	exit();
-}
-*/
-
 ?>
 
 <!DOCTYPE html>
@@ -47,7 +38,6 @@ require_once __DIR__.'/includes/FormularioLogin.php';
 	require("./includes/comun/sidebarDer.php");
 	require("./includes/comun/pie.php");
 ?>
-
 
 </div>
 
