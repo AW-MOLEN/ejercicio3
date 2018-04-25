@@ -1,5 +1,9 @@
 <?php
 require_once __DIR__ . '/Usuario.php';
+
+// EL directorio es ejercicio3\includes
+namespace ejercicio3\includes;
+
 /**
  * Clase base para la gestión de formularios.
  *
