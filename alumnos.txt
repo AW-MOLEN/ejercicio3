@@ -1,0 +1,10 @@
+SILVIA LENDÍNEZ FERNÁNDEZ
+GONZALO MOLINA DÍAZ
+
+EJERCICIO 3 - HASTA PARTE 5
+
+Al no especificar el enunciado, se adjunta también en /includes/ la base de datos. Usuarios y contraseñas:
+gonzaa - 12345
+silviaa - 12345
+luka10 - 12345
+david - david
